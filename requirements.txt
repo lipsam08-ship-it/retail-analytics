@@ -1,8 +1,8 @@
 streamlit==1.39.0
-pandas==2.2.2
-matplotlib==3.9.2
-seaborn==0.13.2
-plotly==5.24.1
+pandas>=2.0.0,<3.0.0
+matplotlib
+seaborn
+plotly
 datetime
 warnings
 base64
