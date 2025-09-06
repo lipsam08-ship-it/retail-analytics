@@ -1,0 +1,501 @@
+OrderID,CustomerID,OrderDate,Product,Category,Region,Quantity,UnitPrice,Sales,Profit,Discount,PaymentMethod,CustomerAge,Gender,City,State,ShippingTime,ReturnStatus,PromoCodeUsed,CustomerSegment
+1000,202,2023-08-03,Tablet,Electronics,East,1,140.41,140.41,18.55827876164852,0.1,Cash,36,M,NYC,AZ,9,No,No,Regular
+1001,535,2023-12-08,Tablet,Accessories,South,3,728.72,2186.16,524.8305081449079,0.0,PayPal,62,M,Houston,CA,7,No,Yes,Regular
+1002,960,2023-02-20,Tablet,Peripherals,West,2,819.61,1639.22,412.71236466011834,0.1,Bank Transfer,24,M,Chicago,AZ,2,No,Yes,Premium
+1003,370,2023-06-02,Tablet,Electronics,South,3,221.38,664.14,80.46674019479534,0.15,Bank Transfer,64,M,Chicago,TX,6,No,Yes,New
+1004,206,2023-07-05,Headphones,Peripherals,South,2,510.79,1021.58,205.57047014315899,0.0,Bank Transfer,24,F,LA,IL,4,Yes,No,Premium
+1005,171,2023-03-04,Mouse,Accessories,South,4,842.3,3369.2,885.8469477525039,0.05,PayPal,43,F,Houston,TX,1,No,Yes,Regular
+1006,800,2023-07-09,Phone,Peripherals,East,4,735.47,2941.88,845.003865735609,0.15,Cash,57,F,Phoenix,TX,1,No,No,New
+1007,120,2023-05-05,Phone,Peripherals,North,2,546.81,1093.62,221.68068188522685,0.0,Cash,22,M,Chicago,AZ,5,No,No,Premium
+1008,714,2023-05-30,Tablet,Peripherals,North,4,594.44,2377.76,689.6831853468519,0.05,Credit Card,38,M,Phoenix,CA,2,Yes,Yes,Premium
+1009,221,2023-11-10,Tablet,Peripherals,South,2,513.28,1026.56,212.6393739022684,0.1,Cash,31,M,Chicago,TX,4,No,No,New
+1010,566,2023-02-27,Laptop,Electronics,North,4,304.57,1218.28,217.87487915223517,0.05,Credit Card,21,F,Phoenix,AZ,1,No,No,Regular
+1011,314,2023-12-08,Mouse,Electronics,North,1,569.37,569.37,153.52528306083244,0.15,PayPal,40,F,Houston,CA,4,No,Yes,New
+1012,430,2023-11-01,Headphones,Accessories,South,1,692.0,692.0,137.42880712739952,0.1,Bank Transfer,59,M,LA,IL,6,No,No,Premium
+1013,558,2023-06-29,Phone,Electronics,South,1,874.59,874.59,170.00324334292523,0.0,Bank Transfer,37,F,Houston,IL,4,No,No,Premium
+1014,187,2023-06-19,Laptop,Electronics,West,3,639.93,1919.79,380.2384028088189,0.1,Bank Transfer,32,M,NYC,NY,1,Yes,No,Premium
+1015,472,2023-11-22,Laptop,Accessories,North,3,763.51,2290.5299999999997,616.9702900665415,0.0,Cash,67,F,LA,AZ,7,No,No,Premium
+1016,199,2023-09-28,Phone,Electronics,East,1,168.47,168.47,44.878438305637225,0.0,Credit Card,69,F,Houston,CA,2,No,No,Regular
+1017,971,2023-02-23,Headphones,Electronics,South,3,466.94,1400.82,253.13377516201933,0.05,Credit Card,62,F,NYC,TX,9,No,No,Regular
+1018,763,2023-04-11,Laptop,Accessories,West,4,19.24,76.96,12.82615144312712,0.05,PayPal,46,M,Chicago,IL,3,No,Yes,Premium
+1019,230,2023-09-21,Laptop,Accessories,East,2,254.21,508.42,100.86320919639482,0.05,Cash,25,F,Chicago,CA,8,No,No,Regular
+1020,761,2023-02-22,Mouse,Accessories,North,2,729.2,1458.4,312.90628564012,0.15,PayPal,58,F,Phoenix,AZ,8,No,No,Regular
+1021,408,2023-03-01,Headphones,Peripherals,West,2,991.89,1983.78,292.93971833992157,0.15,Credit Card,65,M,LA,NY,3,No,Yes,Regular
+1022,869,2023-04-18,Laptop,Peripherals,South,1,108.19,108.19,27.99860012307595,0.05,Credit Card,36,F,Chicago,IL,4,No,No,Premium
+1023,443,2023-01-05,Headphones,Accessories,East,3,407.48,1222.44,241.18319842838864,0.15,Bank Transfer,65,M,LA,CA,2,No,No,New
+1024,591,2023-04-13,Phone,Accessories,South,4,802.07,3208.28,535.1703304169577,0.1,Cash,56,M,Chicago,CA,4,No,No,New
+1025,513,2023-07-15,Tablet,Accessories,North,4,212.0,848.0,102.91684040669281,0.1,Credit Card,63,M,Phoenix,CA,9,Yes,No,New
+1026,905,2023-09-19,Laptop,Peripherals,East,1,559.53,559.53,82.68120652012604,0.15,Bank Transfer,45,M,Houston,AZ,2,No,No,Premium
+1027,485,2023-12-31,Mouse,Peripherals,North,4,735.74,2942.96,853.035303446198,0.15,Cash,63,M,Phoenix,AZ,3,No,No,Regular
+1028,291,2023-12-16,Phone,Electronics,North,4,619.83,2479.32,399.21995110507777,0.1,PayPal,44,F,NYC,AZ,4,Yes,No,Regular
+1029,376,2023-02-16,Headphones,Electronics,West,4,196.14,784.56,104.95204881316023,0.0,Cash,21,M,Chicago,TX,5,No,No,Premium
+1030,260,2023-12-21,Phone,Accessories,South,4,361.83,1447.32,278.0801889636209,0.1,Cash,32,M,NYC,CA,1,Yes,No,Premium
+1031,559,2023-11-07,Laptop,Peripherals,East,3,785.95,2357.8500000000004,380.59836713639254,0.1,Credit Card,52,M,NYC,IL,7,No,No,New
+1032,413,2023-11-04,Headphones,Peripherals,North,4,558.68,2234.72,239.18621595320857,0.15,Credit Card,54,M,LA,AZ,7,No,No,New
+1033,121,2023-05-24,Tablet,Peripherals,North,2,15.18,30.36,4.998137759320621,0.1,Cash,18,F,Chicago,AZ,9,No,No,Premium
+1034,352,2023-09-26,Phone,Accessories,East,1,763.38,763.38,159.4103282685823,0.15,Credit Card,20,M,NYC,CA,4,No,No,New
+1035,847,2023-05-04,Laptop,Electronics,North,3,44.96,134.88,28.370992947610628,0.15,Credit Card,64,F,Houston,AZ,6,No,No,Regular
+1036,956,2023-04-16,Mouse,Accessories,West,4,748.28,2993.12,512.7567276305938,0.05,Credit Card,41,M,NYC,TX,2,No,Yes,Premium
+1037,660,2023-06-07,Headphones,Electronics,West,3,210.46,631.38,119.62160284855341,0.1,Bank Transfer,44,F,Houston,TX,4,No,No,Premium
+1038,574,2023-05-27,Phone,Electronics,West,4,958.49,3833.96,1123.747415559073,0.0,Bank Transfer,57,M,LA,AZ,2,No,No,Regular
+1039,158,2023-05-25,Phone,Accessories,West,2,374.26,748.52,131.3425764352866,0.05,Cash,53,M,NYC,CA,5,Yes,Yes,Regular
+1040,610,2023-04-30,Tablet,Electronics,North,1,333.66,333.66,50.59799170246519,0.15,Credit Card,51,F,Phoenix,CA,7,No,No,Regular
+1041,781,2023-11-15,Tablet,Electronics,East,4,157.4,629.6,93.61737018888644,0.15,Bank Transfer,46,M,LA,CA,1,No,No,New
+1042,575,2023-10-02,Mouse,Peripherals,East,4,312.55,1250.2,239.47946376054173,0.0,Cash,41,F,Houston,NY,7,No,No,Premium
+1043,799,2023-04-02,Mouse,Electronics,East,4,877.88,3511.52,884.5660385245045,0.15,Credit Card,41,M,LA,AZ,6,No,Yes,New
+1044,882,2023-02-27,Laptop,Accessories,East,4,996.37,3985.48,562.7403576638952,0.1,PayPal,59,F,NYC,CA,6,No,No,Regular
+1045,289,2023-12-12,Laptop,Accessories,South,1,374.63,374.63,90.60772162214919,0.05,Credit Card,21,M,Chicago,TX,8,No,No,New
+1046,786,2023-08-17,Mouse,Electronics,East,1,454.12,454.12,47.33291155588739,0.15,Credit Card,20,M,Chicago,IL,8,No,Yes,Regular
+1047,662,2023-04-27,Mouse,Peripherals,South,2,724.85,1449.7,266.4354276366653,0.15,Bank Transfer,51,F,Houston,IL,6,No,No,New
+1048,975,2023-11-14,Headphones,Peripherals,South,1,887.33,887.33,226.4226696612778,0.0,Cash,66,M,Houston,CA,3,No,No,New
+1049,666,2023-10-06,Tablet,Electronics,West,4,597.11,2388.44,400.6526681779766,0.1,Cash,40,M,Chicago,IL,5,No,Yes,Regular
+1050,343,2023-05-07,Laptop,Electronics,South,2,397.61,795.22,169.18100356228211,0.15,Bank Transfer,69,M,Houston,IL,2,Yes,No,New
+1051,931,2023-05-09,Tablet,Accessories,North,2,418.5,837.0,118.01352357505746,0.0,Credit Card,40,M,LA,NY,5,No,No,Premium
+1052,604,2023-02-27,Tablet,Electronics,South,2,698.66,1397.32,347.0929999856846,0.15,PayPal,62,M,Phoenix,TX,9,No,No,New
+1053,230,2023-05-02,Mouse,Peripherals,West,4,13.19,52.76,5.8276490976919515,0.0,Credit Card,22,M,Phoenix,TX,1,Yes,Yes,New
+1054,584,2023-01-01,Headphones,Electronics,South,3,623.39,1870.17,505.89693563336283,0.0,Credit Card,48,F,LA,NY,5,No,Yes,Premium
+1055,918,2023-08-27,Phone,Accessories,North,4,361.94,1447.76,202.16416008116684,0.1,PayPal,58,F,Phoenix,NY,6,No,Yes,Regular
+1056,746,2023-10-17,Headphones,Accessories,North,1,796.26,796.26,218.87563534561508,0.15,Bank Transfer,23,F,NYC,IL,7,No,No,Premium
+1057,120,2023-04-06,Headphones,Accessories,North,1,102.06,102.06,17.40182687342616,0.1,Cash,54,M,LA,AZ,9,No,No,New
+1058,940,2023-05-06,Tablet,Accessories,West,4,592.32,2369.28,579.3759478661824,0.0,Bank Transfer,27,F,Houston,IL,6,No,Yes,Regular
+1059,266,2023-04-28,Headphones,Accessories,West,4,486.16,1944.64,318.61965661738674,0.05,Bank Transfer,57,M,LA,NY,5,Yes,Yes,New
+1060,373,2023-02-17,Laptop,Electronics,East,2,645.9,1291.8,363.23133938018356,0.15,Credit Card,24,M,Chicago,TX,7,No,No,New
+1061,487,2023-03-30,Tablet,Electronics,West,4,74.21,296.84,37.20219286777485,0.05,Cash,56,M,Houston,IL,1,No,No,Premium
+1062,700,2023-08-25,Laptop,Electronics,North,2,584.18,1168.36,158.55107619890669,0.15,Cash,55,M,Chicago,AZ,5,No,No,Premium
+1063,415,2023-09-29,Phone,Electronics,North,1,565.87,565.87,112.38519138472229,0.1,Bank Transfer,38,F,Houston,IL,2,Yes,No,Regular
+1064,113,2023-07-08,Tablet,Accessories,West,2,565.05,1130.1,131.5297259914018,0.1,PayPal,37,M,Phoenix,CA,4,No,No,Regular
+1065,341,2023-07-11,Phone,Peripherals,South,4,607.45,2429.8,338.2185305576682,0.1,Bank Transfer,20,F,LA,IL,7,No,Yes,Regular
+1066,876,2023-03-10,Tablet,Electronics,West,1,679.7,679.7,196.26560199790126,0.1,PayPal,68,M,NYC,NY,5,No,No,New
+1067,445,2023-10-05,Mouse,Peripherals,West,3,806.94,2420.82,714.8631403000057,0.1,Cash,39,F,Houston,TX,6,No,No,Premium
+1068,664,2023-12-15,Headphones,Electronics,North,2,277.12,554.24,97.1315941376186,0.05,Bank Transfer,64,F,Houston,TX,2,No,No,Premium
+1069,997,2023-09-04,Mouse,Electronics,East,1,826.8,826.8,235.35457643486438,0.1,Credit Card,21,F,Chicago,NY,3,No,No,Premium
+1070,439,2023-03-17,Phone,Peripherals,North,2,503.27,1006.54,210.33156581046717,0.0,Bank Transfer,45,F,Phoenix,CA,7,No,Yes,Regular
+1071,191,2023-06-03,Headphones,Accessories,East,1,86.29,86.29,13.284215476049472,0.0,Cash,29,F,Chicago,NY,2,No,Yes,Premium
+1072,466,2023-05-24,Tablet,Electronics,North,1,67.97,67.97,16.34540821436966,0.05,Credit Card,55,F,Chicago,IL,6,No,No,Premium
+1073,554,2023-03-27,Headphones,Electronics,West,2,340.9,681.8,158.02785034454752,0.15,Credit Card,68,M,Phoenix,NY,5,No,Yes,Premium
+1074,527,2023-07-04,Laptop,Electronics,North,3,787.05,2361.1499999999996,703.209649442717,0.0,PayPal,53,F,NYC,NY,1,No,Yes,Regular
+1075,608,2023-10-12,Headphones,Peripherals,North,1,710.6,710.6,108.72852048660734,0.15,Credit Card,64,M,Chicago,CA,4,Yes,Yes,Premium
+1076,875,2023-08-08,Laptop,Accessories,North,1,790.73,790.73,185.35652210794282,0.05,Credit Card,58,F,Chicago,IL,2,No,Yes,Regular
+1077,134,2023-03-10,Headphones,Peripherals,West,1,522.1,522.1,57.64232050017485,0.15,Bank Transfer,22,M,Houston,AZ,4,No,No,Premium
+1078,305,2023-02-16,Laptop,Peripherals,West,3,445.8,1337.4,164.13804243059852,0.15,Cash,30,F,Phoenix,AZ,1,No,Yes,Premium
+1079,180,2023-04-04,Phone,Accessories,West,3,155.98,467.93999999999994,47.160712874922915,0.15,PayPal,40,F,LA,TX,2,No,No,Premium
+1080,661,2023-08-26,Mouse,Peripherals,West,4,334.91,1339.64,401.7475013549561,0.15,Bank Transfer,67,M,NYC,NY,8,No,No,Regular
+1081,971,2023-07-23,Tablet,Accessories,East,2,439.68,879.36,229.0334796647212,0.05,Credit Card,47,F,NYC,TX,6,No,No,Regular
+1082,487,2023-08-06,Headphones,Electronics,East,3,97.71,293.13,75.43542346176855,0.0,Credit Card,54,F,Phoenix,CA,2,No,Yes,Premium
+1083,101,2023-12-07,Mouse,Accessories,South,2,228.41,456.82,92.25261314262924,0.1,PayPal,42,F,Houston,AZ,6,No,No,New
+1084,489,2023-02-08,Tablet,Electronics,West,4,602.24,2408.96,385.4659200071777,0.15,Cash,65,M,Houston,NY,9,Yes,Yes,Regular
+1085,665,2023-04-10,Tablet,Peripherals,East,2,738.31,1476.62,192.3339735446553,0.0,PayPal,44,F,Phoenix,CA,7,No,No,Regular
+1086,205,2023-10-16,Laptop,Peripherals,North,3,998.36,2995.08,470.03272336485327,0.0,Bank Transfer,68,M,Houston,CA,9,No,No,Premium
+1087,871,2023-09-11,Phone,Electronics,West,2,933.78,1867.56,327.1857630451966,0.05,PayPal,31,F,NYC,NY,5,No,No,New
+1088,921,2023-08-10,Phone,Peripherals,South,3,646.14,1938.42,487.0513236377083,0.0,Credit Card,65,F,NYC,CA,7,No,No,Premium
+1089,576,2023-12-23,Mouse,Accessories,South,2,427.04,854.08,177.59086813328088,0.05,Bank Transfer,64,M,LA,NY,7,Yes,No,Regular
+1090,802,2023-01-23,Phone,Electronics,South,3,639.82,1919.46,221.69134436563738,0.15,Credit Card,53,F,Phoenix,NY,3,No,No,Regular
+1091,501,2023-09-07,Headphones,Peripherals,North,3,787.8,2363.3999999999996,244.8619519546986,0.15,Cash,56,F,Chicago,IL,7,No,No,Premium
+1092,829,2023-01-10,Phone,Electronics,East,2,127.15,254.3,30.634614651102453,0.1,Credit Card,33,M,Chicago,TX,1,No,No,Premium
+1093,655,2023-09-03,Mouse,Accessories,North,4,415.81,1663.24,302.87557611400587,0.1,Credit Card,39,F,LA,CA,9,No,No,New
+1094,261,2023-11-21,Phone,Accessories,West,1,841.4,841.4,241.17770408100878,0.1,PayPal,38,M,LA,CA,6,No,No,New
+1095,301,2023-04-10,Headphones,Peripherals,South,4,389.99,1559.96,354.8604749174275,0.0,Credit Card,38,M,Houston,IL,5,Yes,No,Regular
+1096,369,2023-10-17,Laptop,Accessories,North,2,576.15,1152.3,300.0187968853112,0.15,Bank Transfer,25,M,LA,IL,7,No,No,New
+1097,962,2023-06-29,Mouse,Electronics,North,4,591.89,2367.56,457.58996699303776,0.05,Bank Transfer,66,F,LA,IL,5,No,No,New
+1098,915,2023-08-11,Laptop,Accessories,East,3,192.63,577.89,99.58964256351665,0.1,Cash,33,M,Chicago,AZ,5,No,No,Regular
+1099,370,2023-09-07,Laptop,Electronics,East,1,368.61,368.61,44.85249227741487,0.05,Bank Transfer,48,M,Houston,AZ,7,No,Yes,Regular
+1100,555,2023-05-27,Laptop,Electronics,South,2,341.17,682.34,187.770827671707,0.05,PayPal,59,F,LA,AZ,7,No,No,Regular
+1101,561,2023-04-06,Tablet,Accessories,North,2,35.93,71.86,18.441575937189018,0.1,Cash,27,M,LA,NY,3,No,Yes,Regular
+1102,826,2023-09-14,Tablet,Peripherals,North,2,33.95,67.9,9.073043765377108,0.15,Bank Transfer,49,F,Houston,CA,3,No,No,Premium
+1103,351,2023-11-21,Laptop,Accessories,East,1,833.38,833.38,168.7195417446396,0.1,PayPal,51,F,Phoenix,TX,3,No,Yes,Regular
+1104,801,2023-01-04,Mouse,Electronics,North,3,280.34,841.02,166.08039219158508,0.05,Bank Transfer,26,F,Houston,NY,6,No,Yes,Regular
+1105,395,2023-01-16,Headphones,Electronics,North,2,522.9,1045.8,235.32414915991433,0.1,Bank Transfer,34,F,Chicago,CA,6,No,No,Regular
+1106,824,2023-10-07,Headphones,Accessories,North,4,305.74,1222.96,353.72574477511057,0.05,Credit Card,28,M,Phoenix,CA,3,No,No,New
+1107,819,2023-12-02,Phone,Peripherals,East,2,941.27,1882.54,406.54258599510763,0.05,Bank Transfer,49,M,NYC,IL,3,No,Yes,Regular
+1108,848,2023-09-04,Mouse,Peripherals,South,2,266.7,533.4,110.97037801994303,0.1,Bank Transfer,27,M,Houston,IL,8,No,No,Premium
+1109,437,2023-09-15,Tablet,Electronics,West,2,435.36,870.72,95.83543683297412,0.0,PayPal,39,M,Chicago,NY,8,No,Yes,Premium
+1110,978,2023-06-09,Laptop,Electronics,South,2,874.0,1748.0,196.79245361590117,0.1,PayPal,34,M,Phoenix,IL,7,No,Yes,Regular
+1111,152,2023-12-06,Phone,Peripherals,West,3,843.51,2530.5299999999997,347.8703351712358,0.0,Credit Card,21,F,Houston,CA,4,No,No,Premium
+1112,891,2023-06-01,Headphones,Accessories,North,4,194.24,776.96,82.74169815472416,0.05,Bank Transfer,65,M,LA,IL,4,No,No,New
+1113,316,2023-06-27,Tablet,Electronics,South,3,804.62,2413.86,600.2559641001261,0.05,Credit Card,69,M,Houston,AZ,3,No,Yes,Regular
+1114,863,2023-06-12,Tablet,Electronics,West,4,463.61,1854.44,453.718529787713,0.0,Bank Transfer,64,M,NYC,IL,5,No,No,Premium
+1115,287,2023-02-02,Laptop,Peripherals,East,2,488.14,976.28,124.19379611018488,0.05,Cash,42,F,Houston,CA,3,No,Yes,Premium
+1116,479,2023-06-28,Headphones,Accessories,East,1,142.15,142.15,37.984723149609835,0.0,Cash,38,F,Phoenix,NY,8,No,No,Regular
+1117,592,2023-04-11,Mouse,Peripherals,South,3,89.8,269.4,35.27987155750851,0.0,Credit Card,54,M,Phoenix,TX,7,No,No,Premium
+1118,140,2023-09-25,Tablet,Accessories,South,1,730.66,730.66,117.07739087909803,0.05,Credit Card,55,F,Houston,IL,3,Yes,No,Regular
+1119,256,2023-11-19,Laptop,Accessories,North,3,501.5,1504.5,225.36714895765473,0.15,Credit Card,66,M,Phoenix,CA,9,No,No,Premium
+1120,114,2023-03-06,Mouse,Accessories,South,2,442.48,884.96,154.39137799064088,0.0,PayPal,18,M,LA,TX,5,No,No,New
+1121,912,2023-06-17,Headphones,Electronics,North,3,732.21,2196.63,331.5434136133734,0.1,PayPal,42,F,Houston,TX,9,Yes,No,Premium
+1122,164,2023-11-26,Tablet,Peripherals,North,2,767.86,1535.72,303.7503433500119,0.1,PayPal,68,F,LA,AZ,7,No,Yes,Premium
+1123,956,2023-02-12,Mouse,Peripherals,East,3,167.32,501.96,91.09649202495957,0.05,Credit Card,53,M,LA,TX,7,No,No,Regular
+1124,938,2023-02-13,Mouse,Accessories,East,2,614.12,1228.24,365.17282227095995,0.15,Bank Transfer,34,M,Chicago,CA,6,No,No,Premium
+1125,620,2023-10-12,Mouse,Electronics,West,2,144.0,288.0,32.0213577673858,0.05,Cash,58,F,Houston,CA,2,No,Yes,Regular
+1126,443,2023-01-12,Tablet,Electronics,East,4,753.86,3015.44,387.2918819226951,0.15,Credit Card,41,M,Phoenix,IL,9,Yes,Yes,New
+1127,228,2023-04-05,Tablet,Peripherals,East,2,660.39,1320.78,146.03227683132081,0.0,PayPal,19,F,LA,IL,6,No,No,Regular
+1128,747,2023-10-29,Phone,Electronics,South,4,957.05,3828.2,861.9890525263061,0.0,PayPal,57,M,Chicago,IL,8,No,No,Regular
+1129,571,2023-09-10,Headphones,Electronics,East,2,78.27,156.54,17.36057645726873,0.0,Credit Card,32,F,Houston,TX,1,No,Yes,Premium
+1130,162,2023-08-30,Laptop,Accessories,West,1,66.48,66.48,17.76930274815294,0.0,Credit Card,49,M,Houston,TX,5,No,Yes,New
+1131,238,2023-02-04,Mouse,Electronics,South,2,289.37,578.74,117.12987262417178,0.1,PayPal,56,M,NYC,AZ,1,No,No,Regular
+1132,598,2023-08-03,Phone,Accessories,West,1,269.09,269.09,55.27149633972898,0.1,Bank Transfer,23,F,NYC,IL,8,No,No,Premium
+1133,692,2023-12-03,Laptop,Peripherals,East,1,254.51,254.51,54.037283631566105,0.05,PayPal,18,M,LA,NY,8,No,No,Premium
+1134,491,2023-03-31,Phone,Electronics,West,2,907.19,1814.38,243.42219448957252,0.15,PayPal,64,M,NYC,AZ,1,No,No,Regular
+1135,774,2023-09-21,Tablet,Peripherals,South,1,257.05,257.05,35.8682584831158,0.0,Credit Card,40,F,LA,NY,9,No,Yes,Premium
+1136,518,2023-04-03,Mouse,Peripherals,North,4,279.23,1116.92,182.9106888526633,0.0,Bank Transfer,56,M,Phoenix,TX,2,No,No,Regular
+1137,388,2023-03-31,Laptop,Electronics,West,3,761.8,2285.3999999999996,499.8153417438517,0.15,PayPal,34,M,LA,AZ,9,No,No,Regular
+1138,478,2023-04-25,Laptop,Electronics,West,2,455.24,910.48,129.3096065276093,0.15,PayPal,51,M,NYC,AZ,1,No,No,Regular
+1139,872,2023-04-15,Laptop,Peripherals,South,1,778.94,778.94,96.01708710663651,0.05,Cash,58,F,Phoenix,CA,9,No,Yes,New
+1140,589,2023-07-15,Laptop,Electronics,South,2,74.71,149.42,43.93297303372842,0.15,Credit Card,46,F,NYC,TX,4,No,No,Regular
+1141,330,2023-11-10,Laptop,Accessories,West,4,492.7,1970.8,205.74435212536096,0.0,Cash,26,F,LA,TX,9,No,No,Premium
+1142,140,2023-04-24,Phone,Accessories,East,2,43.28,86.56,22.552297481177206,0.0,Cash,30,M,Chicago,AZ,7,No,No,New
+1143,127,2023-03-16,Mouse,Electronics,West,2,72.03,144.06,37.110868729555534,0.0,PayPal,23,M,Houston,TX,6,No,No,Premium
+1144,234,2023-08-05,Tablet,Peripherals,South,1,907.37,907.37,144.67363409592494,0.0,Credit Card,23,M,NYC,AZ,5,No,Yes,New
+1145,300,2023-10-04,Tablet,Electronics,North,4,147.85,591.4,75.18191614134503,0.0,Bank Transfer,37,M,LA,CA,9,Yes,No,New
+1146,939,2023-09-06,Tablet,Electronics,North,3,537.1,1611.3000000000002,208.0602876872898,0.05,PayPal,69,F,Phoenix,AZ,2,No,No,New
+1147,879,2023-06-13,Tablet,Peripherals,East,3,416.98,1250.94,299.58302145333874,0.0,Bank Transfer,20,M,NYC,TX,2,No,No,New
+1148,132,2023-12-23,Phone,Peripherals,West,1,353.87,353.87,80.88099367753286,0.05,Bank Transfer,34,M,NYC,TX,9,No,No,Premium
+1149,147,2023-07-11,Headphones,Accessories,North,2,900.84,1801.68,462.2194452770476,0.0,Credit Card,66,M,Houston,AZ,3,No,No,Regular
+1150,602,2023-08-15,Mouse,Peripherals,West,1,31.61,31.61,9.08775597190714,0.1,Cash,29,F,LA,AZ,8,No,No,Premium
+1151,506,2023-06-26,Laptop,Accessories,South,1,667.15,667.15,159.03886808066136,0.1,Credit Card,65,M,Chicago,AZ,9,No,No,Regular
+1152,673,2023-04-09,Headphones,Peripherals,North,1,963.76,963.76,126.41669537336384,0.1,Bank Transfer,64,M,Phoenix,IL,8,No,Yes,Premium
+1153,827,2023-02-05,Tablet,Electronics,East,2,564.57,1129.14,167.8901592588992,0.1,PayPal,62,M,LA,TX,4,No,No,New
+1154,904,2023-04-06,Headphones,Accessories,South,4,937.45,3749.8,1006.5916104056012,0.05,Bank Transfer,18,M,Phoenix,TX,1,No,No,New
+1155,198,2023-06-01,Mouse,Accessories,East,1,61.74,61.74,8.758511424400808,0.05,PayPal,34,M,NYC,IL,4,No,No,Regular
+1156,783,2023-05-31,Laptop,Accessories,South,2,424.61,849.22,97.23948040081694,0.15,PayPal,20,F,Houston,AZ,9,No,No,Regular
+1157,971,2023-07-09,Laptop,Electronics,North,4,267.56,1070.24,257.5596890076356,0.0,Credit Card,43,M,Houston,CA,2,No,No,Premium
+1158,825,2023-08-12,Mouse,Electronics,East,1,733.51,733.51,132.40242140311483,0.1,Bank Transfer,32,M,Chicago,AZ,3,No,No,Regular
+1159,646,2023-02-06,Mouse,Electronics,East,3,981.48,2944.44,836.244546463652,0.05,Cash,53,M,Houston,AZ,8,No,No,Premium
+1160,838,2023-09-25,Tablet,Electronics,South,4,263.96,1055.84,242.8970628527063,0.0,Bank Transfer,49,M,NYC,IL,6,No,No,Regular
+1161,712,2023-07-02,Laptop,Electronics,East,1,657.63,657.63,77.65544647302598,0.0,Bank Transfer,49,M,Chicago,TX,8,No,No,Regular
+1162,561,2023-01-13,Headphones,Accessories,South,4,206.12,824.48,238.74575651385967,0.05,Cash,21,M,LA,AZ,7,No,Yes,Regular
+1163,742,2023-10-06,Phone,Electronics,South,4,569.68,2278.72,345.7079215604602,0.1,Credit Card,35,M,Houston,TX,5,No,Yes,New
+1164,868,2023-08-05,Phone,Accessories,South,4,469.29,1877.16,314.3163596982127,0.15,Bank Transfer,66,M,Chicago,NY,9,No,No,New
+1165,104,2023-12-21,Mouse,Electronics,South,4,972.29,3889.16,701.8070220962968,0.0,Bank Transfer,36,M,NYC,TX,4,No,Yes,Premium
+1166,317,2023-12-27,Tablet,Peripherals,North,4,612.44,2449.76,270.07344647188614,0.15,PayPal,60,M,Phoenix,CA,6,No,Yes,Regular
+1167,602,2023-10-13,Phone,Accessories,South,4,356.01,1424.04,283.8155643746541,0.1,Bank Transfer,69,F,Phoenix,CA,2,No,No,Premium
+1168,866,2023-09-30,Laptop,Peripherals,West,1,122.95,122.95,15.327401695541438,0.1,Cash,52,F,NYC,AZ,2,No,No,Regular
+1169,497,2023-03-03,Mouse,Accessories,East,3,159.73,479.18999999999994,86.34719416915824,0.15,PayPal,57,F,NYC,TX,2,No,No,New
+1170,970,2023-03-25,Headphones,Peripherals,West,2,233.06,466.12,79.30656927577407,0.1,Credit Card,31,F,Phoenix,AZ,7,No,No,New
+1171,894,2023-08-05,Mouse,Electronics,North,4,258.46,1033.84,263.1825983699312,0.0,PayPal,50,M,Chicago,IL,2,Yes,No,Regular
+1172,492,2023-12-08,Headphones,Electronics,West,2,852.11,1704.22,444.1778498669466,0.15,Cash,31,F,Phoenix,CA,2,No,No,Regular
+1173,306,2023-07-06,Mouse,Electronics,East,1,565.61,565.61,73.91537208161843,0.1,Cash,51,F,NYC,AZ,9,No,Yes,New
+1174,114,2023-01-19,Mouse,Accessories,West,4,528.16,2112.64,366.14214010096964,0.15,PayPal,21,M,Houston,IL,7,Yes,No,New
+1175,957,2023-06-26,Mouse,Peripherals,North,3,123.62,370.86,64.77835066005302,0.0,Credit Card,41,F,LA,AZ,3,No,No,Premium
+1176,653,2023-04-10,Headphones,Electronics,South,2,861.54,1723.08,224.48646154747786,0.1,PayPal,46,F,Houston,TX,3,No,No,New
+1177,991,2023-08-21,Headphones,Peripherals,West,4,725.59,2902.36,753.7159029840745,0.0,Credit Card,36,M,Houston,TX,7,No,No,Regular
+1178,560,2023-03-17,Mouse,Peripherals,North,1,76.99,76.99,18.588901799708847,0.1,PayPal,23,M,NYC,TX,5,Yes,No,Premium
+1179,790,2023-09-22,Phone,Electronics,North,3,710.76,2132.2799999999997,294.4174550570882,0.05,Cash,50,M,Phoenix,TX,6,No,Yes,Regular
+1180,674,2023-10-11,Tablet,Electronics,East,2,548.1,1096.2,190.0201112401045,0.1,Bank Transfer,66,F,Chicago,NY,8,No,No,Premium
+1181,963,2023-07-25,Tablet,Peripherals,East,2,90.91,181.82,22.02949392388228,0.15,Bank Transfer,57,F,Houston,IL,9,Yes,No,Regular
+1182,842,2023-08-11,Tablet,Electronics,West,4,463.72,1854.88,418.5375705631891,0.1,Credit Card,36,M,Phoenix,IL,1,No,No,New
+1183,340,2023-02-21,Headphones,Electronics,South,3,489.85,1469.5500000000002,182.62742234408483,0.0,Credit Card,18,M,Chicago,TX,3,Yes,Yes,Regular
+1184,663,2023-12-05,Headphones,Electronics,North,3,174.12,522.36,155.2385144645824,0.0,Credit Card,22,F,Houston,NY,7,No,No,Premium
+1185,195,2023-05-24,Phone,Accessories,West,3,946.24,2838.7200000000003,727.0995638115858,0.1,Cash,44,M,Chicago,TX,6,No,No,Regular
+1186,833,2023-03-10,Tablet,Peripherals,North,3,851.48,2554.44,454.8121921198681,0.15,PayPal,33,F,Phoenix,NY,7,No,Yes,Premium
+1187,584,2023-04-09,Tablet,Peripherals,North,1,672.33,672.33,145.0301777178757,0.05,Cash,23,M,LA,TX,8,No,No,Regular
+1188,506,2023-01-25,Mouse,Accessories,South,3,467.67,1403.01,396.0253363139567,0.15,Bank Transfer,57,M,Phoenix,CA,6,No,No,New
+1189,330,2023-02-22,Headphones,Peripherals,South,2,417.65,835.3,176.0978257829267,0.05,Credit Card,30,F,NYC,CA,3,No,No,New
+1190,848,2023-05-31,Tablet,Electronics,West,2,654.46,1308.92,176.5729117632023,0.0,PayPal,65,M,Chicago,AZ,2,No,No,Regular
+1191,754,2023-05-24,Phone,Peripherals,South,1,549.98,549.98,96.6538543005052,0.15,Bank Transfer,52,M,LA,TX,7,No,No,Regular
+1192,270,2023-02-26,Phone,Electronics,South,2,71.65,143.3,38.494531831752504,0.05,Bank Transfer,36,M,Chicago,IL,1,No,No,Regular
+1193,640,2023-02-08,Tablet,Accessories,West,2,517.38,1034.76,236.7971720850834,0.1,Bank Transfer,29,F,Chicago,AZ,3,No,No,Premium
+1194,135,2023-04-19,Headphones,Electronics,South,3,808.34,2425.02,558.1059292994305,0.0,Cash,33,M,Houston,CA,4,No,Yes,Regular
+1195,624,2023-06-30,Phone,Peripherals,East,2,464.65,929.3,254.0374413300626,0.1,Credit Card,60,M,NYC,TX,1,No,No,Regular
+1196,259,2023-02-11,Mouse,Peripherals,North,1,61.44,61.44,17.129140930099258,0.0,Bank Transfer,27,M,Chicago,AZ,5,No,Yes,Premium
+1197,938,2023-07-05,Phone,Peripherals,North,3,788.42,2365.2599999999998,671.6357156654059,0.15,Credit Card,42,M,Phoenix,TX,3,No,Yes,New
+1198,798,2023-08-11,Laptop,Accessories,North,4,209.35,837.4,99.62534288603858,0.15,Cash,37,M,Phoenix,CA,2,No,No,Regular
+1199,342,2023-05-02,Laptop,Accessories,North,3,266.03,798.0899999999999,166.66130418134622,0.0,Bank Transfer,48,M,Houston,AZ,3,No,No,Regular
+1200,185,2023-05-13,Headphones,Peripherals,West,1,173.06,173.06,42.936515548408444,0.0,Cash,21,F,NYC,CA,8,No,No,New
+1201,895,2023-06-12,Tablet,Electronics,North,3,336.91,1010.73,254.08273403504535,0.0,Cash,61,F,NYC,NY,6,No,No,New
+1202,677,2023-08-03,Headphones,Accessories,North,3,759.18,2277.54,504.11808372695253,0.15,Credit Card,40,M,Phoenix,CA,7,No,No,Premium
+1203,781,2023-08-09,Headphones,Peripherals,North,1,524.19,524.19,69.90465064598605,0.05,Bank Transfer,19,F,LA,TX,6,No,Yes,Regular
+1204,656,2023-08-23,Headphones,Peripherals,North,3,212.83,638.49,165.67800989724267,0.1,Cash,39,F,Houston,IL,6,No,No,Regular
+1205,673,2023-11-27,Headphones,Accessories,East,1,879.05,879.05,214.50777354526258,0.1,Bank Transfer,68,M,Houston,CA,3,No,No,Premium
+1206,745,2023-05-26,Mouse,Accessories,North,1,880.79,880.79,103.25250524453513,0.15,Credit Card,54,F,Phoenix,IL,8,No,No,New
+1207,895,2023-08-27,Mouse,Accessories,East,4,871.87,3487.48,672.2534974710787,0.1,Cash,25,F,Phoenix,NY,7,Yes,No,Premium
+1208,127,2023-03-17,Phone,Electronics,West,2,246.41,492.82,66.42990840646705,0.0,Credit Card,24,F,LA,AZ,7,No,No,New
+1209,719,2023-01-09,Laptop,Electronics,South,2,456.73,913.46,153.00035643539425,0.05,Bank Transfer,31,F,LA,AZ,6,No,No,Premium
+1210,655,2023-03-15,Headphones,Peripherals,North,3,985.14,2955.42,306.2294443053054,0.1,Bank Transfer,20,F,NYC,IL,5,No,Yes,New
+1211,439,2023-09-10,Phone,Accessories,South,3,774.29,2322.87,418.26984828705963,0.05,Credit Card,67,F,Houston,AZ,8,No,No,Premium
+1212,897,2023-08-18,Laptop,Electronics,South,4,36.9,147.6,30.99236671253133,0.0,PayPal,33,F,Houston,CA,5,No,No,New
+1213,430,2023-01-07,Tablet,Accessories,West,4,74.55,298.2,66.77190583620745,0.1,Cash,36,F,Phoenix,IL,9,No,No,New
+1214,739,2023-06-23,Mouse,Peripherals,South,4,469.29,1877.16,436.8115072523619,0.15,Bank Transfer,68,M,NYC,TX,9,No,Yes,New
+1215,605,2023-05-21,Laptop,Electronics,East,1,910.13,910.13,243.23976255878839,0.05,Bank Transfer,35,M,Houston,CA,1,No,No,New
+1216,447,2023-06-17,Tablet,Electronics,South,4,543.31,2173.24,310.9745217215815,0.0,Cash,69,F,NYC,CA,6,No,Yes,New
+1217,572,2023-06-19,Laptop,Electronics,South,4,502.83,2011.32,249.59749982138788,0.05,Credit Card,33,F,NYC,CA,7,No,No,Regular
+1218,330,2023-10-10,Mouse,Peripherals,South,3,114.42,343.26,92.7857299251364,0.1,Credit Card,25,M,Phoenix,TX,3,No,No,New
+1219,289,2023-05-02,Mouse,Accessories,North,4,660.21,2640.84,346.80187721622116,0.1,Credit Card,50,F,NYC,NY,7,No,Yes,Regular
+1220,324,2023-07-13,Phone,Electronics,North,1,823.88,823.88,243.0050671622529,0.15,PayPal,66,F,LA,AZ,7,No,No,New
+1221,484,2023-01-05,Headphones,Peripherals,East,1,386.62,386.62,103.81042605002021,0.0,PayPal,29,M,LA,IL,2,No,Yes,Regular
+1222,476,2023-01-29,Laptop,Accessories,East,3,777.86,2333.58,467.1251259943701,0.0,Bank Transfer,28,M,Chicago,NY,7,No,No,Regular
+1223,382,2023-06-14,Laptop,Peripherals,North,4,964.83,3859.32,1143.4558667260142,0.15,Credit Card,22,M,Phoenix,IL,1,No,No,Premium
+1224,732,2023-12-05,Tablet,Accessories,East,4,211.73,846.92,101.18605988323019,0.15,Cash,44,F,Chicago,AZ,5,No,Yes,New
+1225,727,2023-05-16,Mouse,Peripherals,North,1,528.1,528.1,84.81980569531423,0.0,Bank Transfer,29,F,LA,TX,9,No,Yes,Premium
+1226,844,2023-12-31,Laptop,Accessories,West,4,294.27,1177.08,267.95623889120054,0.05,Cash,34,M,Chicago,CA,7,No,No,Premium
+1227,358,2023-11-17,Mouse,Electronics,South,4,794.93,3179.72,540.5567679643071,0.05,Bank Transfer,23,M,Phoenix,CA,7,No,Yes,New
+1228,458,2023-12-08,Laptop,Accessories,South,4,581.82,2327.28,664.8445745547714,0.15,PayPal,50,F,Phoenix,TX,2,No,Yes,Premium
+1229,809,2023-05-25,Phone,Peripherals,East,2,638.24,1276.48,144.40207780744413,0.05,Bank Transfer,22,M,NYC,NY,8,No,No,New
+1230,555,2023-11-23,Headphones,Peripherals,North,3,799.94,2399.82,503.6799005633088,0.0,PayPal,45,F,Houston,NY,3,No,No,Premium
+1231,510,2023-08-05,Laptop,Accessories,North,2,402.01,804.02,175.41565926220397,0.1,Bank Transfer,31,F,NYC,IL,8,No,No,New
+1232,748,2023-10-28,Mouse,Electronics,East,3,915.94,2747.82,633.4978786155065,0.1,Credit Card,22,M,Phoenix,TX,3,No,Yes,New
+1233,417,2023-05-12,Phone,Electronics,North,1,537.7,537.7,81.26434565710333,0.05,Cash,50,M,LA,NY,7,No,Yes,New
+1234,776,2023-10-19,Laptop,Accessories,West,4,166.38,665.52,115.07724976860403,0.15,Credit Card,67,F,LA,TX,2,Yes,Yes,Regular
+1235,324,2023-03-11,Tablet,Accessories,South,3,698.94,2096.82,563.4912416424237,0.15,Bank Transfer,65,M,NYC,AZ,4,No,Yes,Premium
+1236,918,2023-09-09,Headphones,Peripherals,East,2,795.33,1590.66,221.0835329780149,0.15,Bank Transfer,58,M,Phoenix,CA,6,No,No,Regular
+1237,333,2023-10-02,Laptop,Electronics,East,4,323.59,1294.36,343.4889333334625,0.15,Bank Transfer,36,M,LA,CA,9,No,No,Premium
+1238,783,2023-12-30,Phone,Accessories,North,1,858.61,858.61,182.48131453170473,0.15,PayPal,39,M,Phoenix,CA,5,No,Yes,Premium
+1239,763,2023-07-01,Tablet,Electronics,East,3,907.08,2721.2400000000002,686.9430285923569,0.05,Cash,22,F,LA,TX,9,No,No,Premium
+1240,926,2023-06-16,Phone,Accessories,West,3,284.14,852.42,206.90063823006167,0.1,Cash,19,F,Phoenix,TX,5,No,No,Regular
+1241,473,2023-04-01,Phone,Accessories,North,3,983.69,2951.07,417.58318973709106,0.1,Bank Transfer,47,F,Chicago,IL,8,No,No,Premium
+1242,771,2023-07-21,Tablet,Electronics,North,4,149.3,597.2,127.65899323966178,0.05,Bank Transfer,64,F,Phoenix,CA,1,No,No,Regular
+1243,707,2023-12-12,Phone,Accessories,North,2,210.0,420.0,114.88874483562776,0.15,PayPal,56,M,Phoenix,IL,7,No,No,New
+1244,571,2023-01-19,Tablet,Accessories,North,2,192.38,384.76,71.72820865438206,0.05,Credit Card,21,M,NYC,CA,4,No,Yes,Premium
+1245,332,2023-02-08,Laptop,Peripherals,West,3,895.05,2685.1499999999996,787.6032413330277,0.1,Credit Card,50,F,Chicago,IL,5,No,Yes,Premium
+1246,791,2023-05-06,Tablet,Accessories,North,1,657.75,657.75,125.26389641838101,0.0,Cash,30,F,Houston,IL,6,No,No,New
+1247,212,2023-06-22,Tablet,Accessories,East,1,160.58,160.58,20.643703507225787,0.05,PayPal,37,M,NYC,AZ,5,No,Yes,New
+1248,929,2023-05-21,Headphones,Accessories,West,2,445.92,891.84,158.64668501609444,0.15,Bank Transfer,24,F,Houston,IL,1,No,No,Premium
+1249,596,2023-08-30,Tablet,Peripherals,South,1,619.15,619.15,179.7643089833402,0.1,Cash,32,F,LA,TX,9,No,No,New
+1250,541,2023-08-08,Tablet,Electronics,South,2,92.63,185.26,30.372296909740275,0.1,PayPal,40,M,Houston,IL,2,No,No,Regular
+1251,663,2023-05-06,Laptop,Peripherals,East,3,883.59,2650.77,725.3027118461628,0.1,Credit Card,31,F,Phoenix,CA,9,No,No,Regular
+1252,367,2023-02-27,Headphones,Peripherals,East,2,805.57,1611.14,445.077644656992,0.1,PayPal,40,M,Houston,IL,2,No,No,Premium
+1253,609,2023-05-28,Mouse,Electronics,West,2,510.15,1020.3,173.48906215517997,0.15,Credit Card,36,M,NYC,NY,9,No,No,Regular
+1254,906,2023-11-13,Laptop,Peripherals,South,3,967.46,2902.38,338.56707231459876,0.0,PayPal,46,F,NYC,CA,6,No,No,Regular
+1255,485,2023-12-27,Laptop,Electronics,South,1,423.58,423.58,103.73964783229844,0.1,Cash,37,M,Houston,NY,9,No,Yes,Premium
+1256,486,2023-01-01,Mouse,Peripherals,South,2,984.27,1968.54,319.4988842201984,0.05,Credit Card,46,F,NYC,CA,6,No,No,New
+1257,212,2023-12-14,Tablet,Electronics,South,2,671.24,1342.48,344.45985873370114,0.0,Cash,41,M,NYC,TX,6,No,Yes,Premium
+1258,712,2023-07-09,Phone,Accessories,South,3,638.32,1914.96,361.02926564495976,0.1,Cash,35,F,Houston,TX,2,No,No,Regular
+1259,724,2023-07-10,Headphones,Peripherals,North,1,174.3,174.3,34.34639863806379,0.0,Credit Card,27,F,Chicago,TX,8,No,No,Premium
+1260,180,2023-11-08,Phone,Peripherals,East,2,883.11,1766.22,451.4138304774802,0.05,Credit Card,58,F,Chicago,NY,3,No,No,Premium
+1261,798,2023-04-27,Mouse,Peripherals,North,3,433.21,1299.6299999999999,229.34917118952467,0.1,Bank Transfer,25,M,LA,AZ,7,Yes,No,Regular
+1262,212,2023-05-14,Laptop,Peripherals,South,2,170.61,341.22,64.36278255421698,0.05,Bank Transfer,43,M,NYC,CA,5,Yes,No,Regular
+1263,101,2023-02-27,Laptop,Accessories,West,4,22.48,89.92,15.757409390352885,0.15,Bank Transfer,46,F,Houston,TX,3,No,No,Premium
+1264,741,2023-02-13,Headphones,Peripherals,West,3,564.16,1692.48,293.59129505929815,0.1,Cash,27,M,NYC,CA,1,No,Yes,Regular
+1265,319,2023-06-22,Laptop,Accessories,South,1,532.13,532.13,109.18739039331473,0.1,Cash,34,F,Phoenix,NY,8,No,No,Regular
+1266,665,2023-06-09,Laptop,Accessories,South,1,722.16,722.16,189.0325213681902,0.1,Bank Transfer,19,F,NYC,AZ,3,No,No,Regular
+1267,954,2023-06-22,Headphones,Accessories,West,1,891.36,891.36,153.62916050305967,0.1,Cash,23,M,NYC,NY,2,No,No,Regular
+1268,835,2023-11-13,Headphones,Accessories,North,1,88.61,88.61,18.15184215736977,0.15,Cash,22,F,Chicago,CA,1,No,No,Regular
+1269,324,2023-10-30,Mouse,Electronics,North,2,734.18,1468.36,343.80983511737946,0.1,Credit Card,45,M,Houston,AZ,4,No,Yes,Regular
+1270,484,2023-05-29,Laptop,Electronics,South,2,195.54,391.08,60.18247573208667,0.0,Credit Card,58,F,NYC,AZ,8,No,No,New
+1271,502,2023-03-21,Laptop,Peripherals,North,1,859.6,859.6,133.67172061881934,0.1,Cash,22,M,Chicago,NY,3,No,No,Premium
+1272,737,2023-08-01,Mouse,Electronics,West,1,820.87,820.87,235.32916671594865,0.15,Bank Transfer,35,F,LA,TX,1,No,No,Regular
+1273,229,2023-07-22,Tablet,Electronics,North,1,545.39,545.39,133.46070418980847,0.1,PayPal,43,F,Chicago,CA,4,No,Yes,Premium
+1274,152,2023-09-09,Tablet,Peripherals,South,2,713.14,1426.28,307.27396251275616,0.0,Bank Transfer,37,M,Chicago,IL,9,No,No,New
+1275,783,2023-08-17,Tablet,Peripherals,West,1,321.21,321.21,73.73183173608895,0.15,PayPal,58,F,Chicago,IL,1,No,No,Regular
+1276,829,2023-06-13,Mouse,Peripherals,North,1,476.46,476.46,50.438002532210945,0.15,Bank Transfer,66,F,NYC,NY,2,No,Yes,Premium
+1277,771,2023-08-15,Laptop,Electronics,East,4,823.42,3293.68,736.5346751222498,0.0,Credit Card,44,M,NYC,CA,9,Yes,No,Regular
+1278,809,2023-05-27,Mouse,Electronics,West,4,464.67,1858.68,375.27079049687194,0.0,Cash,66,F,LA,CA,2,No,No,Regular
+1279,515,2023-01-20,Mouse,Peripherals,West,1,364.22,364.22,76.17658967385321,0.0,Cash,29,M,Phoenix,NY,3,No,No,Regular
+1280,346,2023-02-16,Tablet,Accessories,East,3,499.27,1497.81,257.4507204130932,0.0,Credit Card,24,F,Phoenix,CA,7,No,No,Regular
+1281,935,2023-08-21,Phone,Peripherals,East,1,829.97,829.97,96.52117817696208,0.0,PayPal,20,M,Phoenix,TX,3,No,No,Regular
+1282,538,2023-11-01,Laptop,Accessories,West,4,341.86,1367.44,189.61996032209296,0.15,PayPal,27,F,LA,NY,9,No,No,Regular
+1283,302,2023-01-14,Tablet,Accessories,East,3,182.02,546.0600000000001,158.4387316193823,0.15,PayPal,51,F,Phoenix,TX,6,No,No,Regular
+1284,283,2023-05-23,Phone,Peripherals,South,3,714.89,2144.67,389.77213804312083,0.1,Credit Card,42,F,Phoenix,CA,3,No,Yes,New
+1285,222,2023-01-01,Phone,Peripherals,South,1,827.72,827.72,160.0285963488646,0.1,PayPal,52,M,Chicago,NY,9,No,Yes,New
+1286,500,2023-02-23,Headphones,Peripherals,South,4,109.63,438.52,48.47485940930601,0.05,Credit Card,33,M,NYC,CA,1,No,No,Regular
+1287,866,2023-09-16,Laptop,Electronics,West,4,247.48,989.92,106.42951239003546,0.1,Bank Transfer,19,M,NYC,NY,3,No,No,Regular
+1288,393,2023-05-24,Phone,Accessories,East,3,150.55,451.65000000000003,109.94800011173362,0.1,Bank Transfer,41,M,Chicago,CA,1,Yes,Yes,New
+1289,379,2023-01-12,Tablet,Electronics,East,1,354.46,354.46,73.59260692887382,0.0,Credit Card,27,F,Chicago,TX,2,No,No,New
+1290,936,2023-11-26,Headphones,Electronics,North,2,455.85,911.7,183.92744916199405,0.0,Cash,55,F,Chicago,TX,8,No,No,New
+1291,983,2023-08-12,Laptop,Peripherals,North,2,751.34,1502.68,223.33567387510718,0.1,Bank Transfer,39,M,NYC,CA,7,No,Yes,Regular
+1292,709,2023-09-29,Mouse,Electronics,East,4,654.64,2618.56,651.8908951633698,0.05,PayPal,43,M,Phoenix,NY,2,No,No,Premium
+1293,297,2023-12-24,Tablet,Peripherals,East,2,624.72,1249.44,166.98430228026282,0.0,Credit Card,60,M,Chicago,IL,2,No,Yes,Premium
+1294,610,2023-06-05,Phone,Accessories,East,4,358.85,1435.4,198.06646621020565,0.1,PayPal,56,F,LA,TX,9,No,No,Premium
+1295,851,2023-01-08,Phone,Peripherals,West,4,843.03,3372.12,647.9273454493893,0.1,PayPal,44,M,Chicago,TX,6,No,No,Premium
+1296,243,2023-05-02,Tablet,Electronics,East,4,476.57,1906.28,299.7739151093501,0.15,Cash,46,M,Houston,IL,5,No,No,Regular
+1297,708,2023-12-14,Phone,Electronics,North,2,979.31,1958.62,292.799188860573,0.05,PayPal,64,F,Chicago,CA,6,No,Yes,Premium
+1298,300,2023-06-13,Headphones,Peripherals,West,4,637.8,2551.2,584.3460557568919,0.15,Cash,55,F,NYC,NY,9,No,No,New
+1299,223,2023-03-31,Laptop,Peripherals,East,3,135.0,405.0,93.2287113627021,0.05,Bank Transfer,37,M,Chicago,CA,7,Yes,No,New
+1300,286,2023-05-16,Headphones,Electronics,North,1,679.42,679.42,179.98067751269357,0.0,Credit Card,44,F,Houston,AZ,9,No,No,Premium
+1301,425,2023-07-05,Phone,Accessories,West,1,331.85,331.85,60.908317589996415,0.05,PayPal,58,M,LA,TX,4,No,Yes,New
+1302,563,2023-11-12,Mouse,Accessories,East,4,689.46,2757.84,316.09539748711165,0.1,Credit Card,37,F,Phoenix,AZ,2,No,No,Regular
+1303,448,2023-06-27,Laptop,Peripherals,East,1,78.94,78.94,12.214644885139974,0.1,PayPal,61,M,Chicago,TX,8,No,No,Premium
+1304,870,2023-01-28,Laptop,Accessories,East,2,183.13,366.26,108.41336019009321,0.05,Credit Card,36,M,Houston,TX,4,No,No,Premium
+1305,759,2023-08-08,Tablet,Electronics,West,2,857.18,1714.36,375.876370207187,0.05,PayPal,37,M,Houston,AZ,9,No,No,Regular
+1306,863,2023-12-23,Tablet,Peripherals,North,1,234.91,234.91,56.835867718121534,0.05,PayPal,52,M,LA,AZ,4,No,No,New
+1307,502,2023-02-10,Mouse,Electronics,North,2,838.67,1677.34,170.20231638877857,0.15,PayPal,64,F,NYC,CA,8,No,No,Regular
+1308,445,2023-08-16,Laptop,Electronics,South,1,286.48,286.48,58.339115631129715,0.05,PayPal,19,F,Chicago,AZ,9,No,Yes,Regular
+1309,610,2023-07-11,Mouse,Accessories,East,1,646.45,646.45,69.49708013228683,0.0,PayPal,47,F,Houston,CA,9,No,No,New
+1310,246,2023-05-25,Tablet,Peripherals,South,1,697.21,697.21,149.09559923445568,0.15,PayPal,51,F,LA,CA,4,Yes,Yes,Regular
+1311,247,2023-07-20,Tablet,Peripherals,South,4,517.53,2070.12,588.2332302497265,0.15,PayPal,39,M,Phoenix,CA,1,No,No,New
+1312,963,2023-07-31,Laptop,Accessories,North,1,312.26,312.26,91.70571153801147,0.05,PayPal,20,M,Houston,TX,3,No,Yes,New
+1313,810,2023-08-08,Headphones,Electronics,West,4,220.52,882.08,183.57014078141245,0.0,PayPal,23,F,LA,TX,9,No,No,Regular
+1314,919,2023-08-28,Phone,Electronics,West,1,42.86,42.86,8.213731590621995,0.15,Credit Card,32,F,NYC,AZ,4,No,Yes,New
+1315,588,2023-02-15,Tablet,Electronics,North,1,310.91,310.91,89.85405295455986,0.1,Cash,44,F,NYC,TX,5,No,No,Regular
+1316,739,2023-02-04,Tablet,Electronics,West,1,656.63,656.63,154.12548479679796,0.15,PayPal,27,F,Houston,AZ,7,No,No,New
+1317,650,2023-09-10,Headphones,Peripherals,South,2,938.92,1877.84,212.15809261768135,0.05,Cash,26,F,Houston,TX,5,No,Yes,Premium
+1318,437,2023-03-23,Headphones,Peripherals,East,4,872.49,3489.96,674.0687274072919,0.0,PayPal,50,M,Chicago,NY,4,No,Yes,New
+1319,971,2023-09-13,Mouse,Accessories,North,4,768.4,3073.6,455.0434177503769,0.05,PayPal,49,M,LA,NY,2,No,Yes,New
+1320,740,2023-07-16,Mouse,Accessories,East,1,790.56,790.56,153.33770087289392,0.1,Credit Card,65,M,Houston,AZ,2,No,No,Regular
+1321,878,2023-10-30,Phone,Peripherals,West,1,668.34,668.34,127.71517207894637,0.1,Bank Transfer,23,F,Chicago,TX,4,No,No,New
+1322,572,2023-01-10,Phone,Peripherals,East,2,267.68,535.36,115.86740832698007,0.1,Bank Transfer,58,F,Chicago,TX,9,No,No,Premium
+1323,250,2023-11-08,Laptop,Electronics,West,2,908.12,1816.24,311.2201670783848,0.05,Credit Card,53,F,Houston,CA,8,No,Yes,Premium
+1324,514,2023-10-13,Mouse,Electronics,West,2,674.02,1348.04,179.09262733691384,0.15,Cash,19,F,NYC,IL,3,No,No,New
+1325,397,2023-08-30,Tablet,Accessories,South,4,564.84,2259.36,453.5527083470327,0.05,Bank Transfer,46,M,LA,AZ,9,No,No,New
+1326,710,2023-09-08,Mouse,Peripherals,West,4,119.88,479.52,127.57177742029594,0.0,Credit Card,21,M,LA,IL,5,No,No,Premium
+1327,362,2023-12-31,Tablet,Accessories,South,4,452.58,1810.32,421.4469233430683,0.15,Credit Card,18,F,NYC,IL,3,No,No,Regular
+1328,863,2023-01-05,Headphones,Peripherals,South,1,465.75,465.75,78.09396671093386,0.1,Bank Transfer,36,M,Houston,AZ,5,No,Yes,Premium
+1329,243,2023-04-29,Mouse,Electronics,South,4,865.92,3463.68,994.4384766938797,0.05,Cash,43,M,LA,TX,4,No,Yes,Premium
+1330,445,2023-10-16,Headphones,Accessories,North,3,551.18,1653.54,467.0283414726745,0.1,Credit Card,42,F,Houston,AZ,8,No,Yes,New
+1331,723,2023-03-06,Phone,Accessories,North,3,386.6,1159.8000000000002,164.54045472113557,0.1,PayPal,27,F,Houston,IL,5,No,Yes,New
+1332,671,2023-05-26,Phone,Peripherals,West,2,977.03,1954.06,210.8108652760593,0.0,Cash,32,F,Chicago,TX,8,No,Yes,Premium
+1333,980,2023-08-12,Laptop,Electronics,South,4,119.61,478.44,118.77834768466774,0.15,Cash,39,F,NYC,NY,9,No,Yes,Regular
+1334,101,2023-08-27,Mouse,Accessories,North,3,428.32,1284.96,341.18521628464157,0.0,Bank Transfer,68,F,Houston,AZ,4,No,No,Premium
+1335,996,2023-06-26,Headphones,Electronics,South,2,51.6,103.2,30.29672464123597,0.0,Bank Transfer,65,F,Phoenix,AZ,7,No,No,Premium
+1336,403,2023-09-24,Tablet,Accessories,East,4,742.51,2970.04,825.5739367796093,0.0,PayPal,38,M,NYC,TX,2,Yes,No,Regular
+1337,353,2023-12-07,Phone,Electronics,East,1,918.9,918.9,202.25627970097491,0.1,Credit Card,39,M,LA,NY,6,No,No,Premium
+1338,751,2023-10-09,Phone,Peripherals,East,3,287.24,861.72,177.52334034921859,0.0,Bank Transfer,53,F,Chicago,NY,8,No,No,Premium
+1339,552,2023-03-04,Tablet,Accessories,West,1,859.76,859.76,90.76332444670425,0.0,Bank Transfer,51,M,LA,TX,7,No,Yes,New
+1340,136,2023-08-05,Headphones,Accessories,South,4,299.3,1197.2,178.77941963251362,0.15,Cash,47,F,LA,CA,7,No,No,Regular
+1341,259,2023-12-08,Headphones,Electronics,East,3,911.66,2734.98,524.9054307389039,0.15,Bank Transfer,42,F,NYC,AZ,8,No,Yes,New
+1342,108,2023-11-11,Mouse,Electronics,North,4,756.42,3025.68,682.8983360809699,0.0,Bank Transfer,62,F,LA,AZ,7,No,No,New
+1343,332,2023-10-10,Mouse,Accessories,East,1,806.86,806.86,170.61084284625855,0.15,Bank Transfer,45,F,Houston,IL,5,No,No,Regular
+1344,198,2023-06-26,Laptop,Peripherals,East,3,27.83,83.49,20.749535755704866,0.15,Bank Transfer,18,M,LA,TX,7,No,No,Regular
+1345,758,2023-04-08,Phone,Electronics,East,1,963.18,963.18,150.21118249835598,0.0,Cash,66,F,Chicago,IL,3,No,Yes,Premium
+1346,915,2023-04-15,Mouse,Electronics,West,4,729.4,2917.6,621.4211456173712,0.1,PayPal,62,M,Chicago,IL,5,No,Yes,New
+1347,307,2023-04-09,Headphones,Electronics,North,4,311.7,1246.8,146.65914981192793,0.0,PayPal,21,F,Phoenix,NY,7,No,No,Regular
+1348,230,2023-11-07,Tablet,Accessories,South,1,831.1,831.1,151.86948333000066,0.15,Credit Card,24,F,Chicago,AZ,9,Yes,Yes,New
+1349,503,2023-01-06,Headphones,Accessories,North,3,288.71,866.1299999999999,216.5603604493937,0.1,Bank Transfer,66,F,LA,IL,2,No,No,New
+1350,251,2023-07-16,Phone,Accessories,South,1,874.03,874.03,208.61362958451747,0.05,Cash,26,M,Chicago,NY,4,No,No,Regular
+1351,153,2023-12-17,Headphones,Accessories,West,4,121.45,485.8,144.8308483436489,0.1,Credit Card,53,F,NYC,TX,7,No,No,Premium
+1352,219,2023-05-13,Laptop,Peripherals,West,1,706.65,706.65,109.93935283584956,0.15,Credit Card,36,F,Chicago,IL,1,Yes,No,New
+1353,772,2023-12-24,Phone,Peripherals,West,4,545.29,2181.16,435.4421143572632,0.1,PayPal,18,F,Houston,AZ,2,No,No,Regular
+1354,727,2023-09-16,Tablet,Accessories,West,1,105.57,105.57,17.514705156424167,0.0,Cash,27,M,NYC,IL,9,No,Yes,Premium
+1355,686,2023-01-23,Laptop,Peripherals,South,3,249.47,748.41,140.79135531860538,0.05,Cash,53,M,Phoenix,TX,7,No,No,New
+1356,724,2023-02-22,Phone,Electronics,East,3,22.28,66.84,18.139709336093983,0.05,Cash,26,M,Houston,IL,7,Yes,No,Regular
+1357,519,2023-06-14,Tablet,Electronics,South,1,474.08,474.08,112.28196767307155,0.05,PayPal,62,F,LA,AZ,6,No,No,New
+1358,521,2023-07-21,Laptop,Electronics,North,1,308.25,308.25,85.22749944657839,0.15,PayPal,63,M,LA,NY,3,No,Yes,Regular
+1359,203,2023-03-24,Laptop,Accessories,West,3,602.37,1807.1100000000001,254.2643917955271,0.15,PayPal,59,F,LA,AZ,3,No,No,Regular
+1360,951,2023-05-25,Phone,Electronics,West,4,304.27,1217.08,334.2980698604914,0.05,PayPal,49,M,Houston,NY,2,No,No,New
+1361,353,2023-03-26,Mouse,Peripherals,North,3,306.92,920.76,103.08134231449786,0.1,PayPal,49,M,Houston,CA,6,No,No,New
+1362,326,2023-03-19,Laptop,Accessories,South,4,745.76,2983.04,828.4494395030484,0.05,Bank Transfer,23,F,Houston,AZ,4,No,No,Regular
+1363,211,2023-01-01,Laptop,Peripherals,East,1,57.66,57.66,9.560878824741113,0.1,Bank Transfer,65,M,NYC,AZ,5,Yes,Yes,Premium
+1364,609,2023-02-20,Tablet,Electronics,East,1,903.87,903.87,147.25626484279445,0.1,Cash,55,F,NYC,TX,3,No,No,New
+1365,572,2023-06-22,Headphones,Electronics,North,4,853.74,3414.96,691.2484011765739,0.15,Credit Card,34,F,LA,IL,6,No,No,Regular
+1366,198,2023-07-24,Phone,Electronics,East,1,671.13,671.13,193.3780811373385,0.1,Cash,27,M,Chicago,NY,3,No,No,Regular
+1367,252,2023-09-17,Phone,Accessories,South,4,597.29,2389.16,261.7474650484453,0.05,Credit Card,67,F,LA,NY,8,No,No,Premium
+1368,960,2023-10-15,Mouse,Peripherals,South,2,893.38,1786.76,304.54644340348096,0.15,PayPal,44,F,Phoenix,TX,9,No,Yes,Premium
+1369,995,2023-02-03,Mouse,Accessories,North,3,193.48,580.4399999999999,157.48172902227103,0.0,Credit Card,67,M,NYC,TX,4,No,No,Premium
+1370,977,2023-12-14,Phone,Accessories,South,2,88.18,176.36,31.605633528103784,0.0,Cash,52,M,Houston,IL,9,Yes,No,New
+1371,437,2023-04-05,Mouse,Electronics,West,4,247.12,988.48,138.22052202734977,0.15,Cash,69,F,NYC,IL,7,No,No,Regular
+1372,805,2023-03-13,Tablet,Accessories,North,3,796.63,2389.89,442.0312732044255,0.05,Credit Card,38,M,Houston,AZ,3,No,No,Regular
+1373,921,2023-02-08,Phone,Accessories,South,4,44.32,177.28,31.398149492888628,0.0,Bank Transfer,42,F,Phoenix,CA,7,Yes,No,Regular
+1374,262,2023-06-03,Mouse,Electronics,North,3,586.98,1760.94,498.49260116215527,0.0,PayPal,45,F,Phoenix,IL,1,Yes,No,Premium
+1375,819,2023-09-07,Phone,Accessories,East,3,995.48,2986.44,753.738259418843,0.1,PayPal,64,M,NYC,TX,3,No,Yes,Regular
+1376,780,2023-06-11,Headphones,Electronics,South,3,857.14,2571.42,516.9148484702506,0.1,Cash,32,M,Houston,IL,6,No,No,New
+1377,260,2023-04-28,Laptop,Electronics,West,3,526.23,1578.69,469.93514599553544,0.05,Bank Transfer,21,M,Phoenix,NY,4,Yes,No,Premium
+1378,679,2023-09-16,Phone,Electronics,South,4,73.0,292.0,56.372207826513915,0.15,Credit Card,46,M,LA,CA,7,No,No,Premium
+1379,900,2023-11-02,Laptop,Electronics,North,3,833.06,2499.18,279.0273644058831,0.05,PayPal,26,F,LA,AZ,3,No,No,Premium
+1380,497,2023-09-25,Mouse,Accessories,North,3,602.99,1808.97,275.7862759867307,0.15,Bank Transfer,44,F,Houston,NY,1,No,No,Premium
+1381,376,2023-02-23,Laptop,Electronics,South,2,123.78,247.56,46.34672161661861,0.0,PayPal,43,M,NYC,NY,9,No,No,New
+1382,915,2023-08-24,Phone,Electronics,West,1,102.92,102.92,13.521683615423736,0.1,Bank Transfer,36,M,Phoenix,CA,6,Yes,No,Regular
+1383,603,2023-08-10,Headphones,Accessories,West,1,910.53,910.53,263.6102948943662,0.05,Bank Transfer,45,F,NYC,AZ,8,No,Yes,New
+1384,995,2023-09-08,Mouse,Accessories,West,2,672.51,1345.02,340.7874209085722,0.05,Cash,34,F,LA,TX,3,No,No,Regular
+1385,491,2023-11-09,Phone,Peripherals,North,2,830.99,1661.98,255.37559227338994,0.15,PayPal,60,F,Phoenix,AZ,8,No,Yes,New
+1386,234,2023-04-22,Mouse,Accessories,South,4,880.19,3520.76,768.0921938857076,0.15,Credit Card,58,F,NYC,IL,2,No,No,Premium
+1387,294,2023-09-12,Tablet,Accessories,East,4,576.05,2304.2,562.8926295623751,0.05,Cash,59,M,Chicago,NY,4,No,Yes,Premium
+1388,500,2023-10-30,Laptop,Peripherals,North,4,522.27,2089.08,602.1893969601226,0.15,Cash,67,F,Houston,IL,3,No,No,New
+1389,739,2023-07-26,Tablet,Accessories,West,2,436.12,872.24,241.02352339295206,0.05,Credit Card,37,F,Houston,TX,1,No,No,New
+1390,132,2023-08-17,Phone,Accessories,South,2,323.78,647.56,131.47957559161233,0.05,Cash,62,M,Chicago,IL,7,Yes,No,Regular
+1391,787,2023-12-07,Headphones,Accessories,West,3,440.25,1320.75,336.69948951832555,0.05,Bank Transfer,57,F,LA,AZ,2,No,No,New
+1392,559,2023-03-07,Mouse,Accessories,East,4,776.14,3104.56,659.4984233885934,0.0,Bank Transfer,56,F,Phoenix,IL,4,No,No,New
+1393,982,2023-03-16,Laptop,Peripherals,West,4,605.9,2423.6,510.2666295828742,0.15,PayPal,66,M,Houston,TX,9,No,Yes,Regular
+1394,569,2023-04-13,Mouse,Accessories,West,4,893.6,3574.4,439.46673117680666,0.1,PayPal,40,M,Chicago,TX,6,No,No,Regular
+1395,474,2023-07-11,Phone,Accessories,East,1,448.95,448.95,56.22090031327029,0.1,Credit Card,64,M,Chicago,TX,8,No,No,Regular
+1396,121,2023-09-09,Mouse,Peripherals,South,3,611.02,1833.06,377.4393776706131,0.15,PayPal,49,F,LA,AZ,2,No,Yes,New
+1397,849,2023-08-14,Laptop,Electronics,North,4,634.99,2539.96,390.57551395697556,0.05,Bank Transfer,69,F,LA,TX,7,No,No,Regular
+1398,769,2023-10-21,Phone,Peripherals,South,4,595.78,2383.12,248.3386925983184,0.1,Credit Card,64,M,NYC,NY,6,No,No,Premium
+1399,137,2023-11-02,Mouse,Electronics,East,4,705.61,2822.44,690.278056531223,0.1,Credit Card,50,M,Houston,TX,9,No,No,Premium
+1400,329,2023-04-08,Headphones,Peripherals,West,1,245.06,245.06,26.098233076978367,0.15,PayPal,63,F,NYC,IL,7,No,Yes,Premium
+1401,464,2023-12-04,Phone,Peripherals,South,1,517.24,517.24,113.30419865853223,0.1,Bank Transfer,22,M,Chicago,IL,1,No,No,New
+1402,662,2023-10-13,Phone,Accessories,North,2,113.18,226.36,47.04638144773178,0.05,Credit Card,60,M,Phoenix,IL,8,No,Yes,Premium
+1403,537,2023-12-01,Headphones,Electronics,East,3,390.67,1172.01,344.2931011008185,0.15,Bank Transfer,65,M,Phoenix,AZ,3,No,Yes,New
+1404,875,2023-12-13,Tablet,Accessories,South,2,492.79,985.58,194.00415717564974,0.05,Bank Transfer,51,F,LA,IL,2,No,No,New
+1405,382,2023-11-04,Laptop,Electronics,North,3,655.7,1967.1000000000001,221.73207709975307,0.1,Bank Transfer,57,F,Phoenix,AZ,3,Yes,No,Premium
+1406,126,2023-09-06,Tablet,Peripherals,East,1,951.03,951.03,200.03736160459584,0.1,PayPal,28,F,Phoenix,AZ,6,No,No,Regular
+1407,325,2023-06-15,Mouse,Peripherals,North,4,604.64,2418.56,648.7043108810556,0.05,Cash,67,F,Phoenix,TX,3,No,Yes,New
+1408,376,2023-12-01,Headphones,Electronics,East,2,746.16,1492.32,446.75562478377566,0.0,Cash,20,F,Chicago,NY,5,No,No,Premium
+1409,897,2023-01-30,Tablet,Accessories,West,4,511.2,2044.8,380.47314431188306,0.1,Credit Card,50,F,Phoenix,TX,6,No,No,New
+1410,708,2023-09-04,Phone,Accessories,South,2,637.76,1275.52,209.26149040588902,0.0,Bank Transfer,28,M,Phoenix,TX,8,No,No,Regular
+1411,383,2023-04-16,Mouse,Accessories,North,1,80.22,80.22,22.568345496297873,0.1,PayPal,33,F,Phoenix,AZ,7,No,No,Regular
+1412,978,2023-02-20,Mouse,Accessories,East,1,261.85,261.85,36.20035029971648,0.0,Bank Transfer,35,F,NYC,AZ,8,No,Yes,Premium
+1413,580,2023-03-22,Tablet,Peripherals,North,1,368.23,368.23,82.14687787651492,0.0,Bank Transfer,47,M,Chicago,IL,3,No,No,New
+1414,552,2023-05-13,Tablet,Peripherals,North,2,477.77,955.54,173.08927217637253,0.0,PayPal,65,F,LA,IL,4,No,No,New
+1415,928,2023-10-12,Headphones,Peripherals,South,3,55.19,165.57,17.91740143313826,0.05,Cash,27,F,NYC,TX,6,Yes,Yes,New
+1416,915,2023-05-18,Laptop,Peripherals,West,2,148.62,297.24,50.369605220525116,0.0,Bank Transfer,35,M,Houston,CA,7,Yes,Yes,New
+1417,758,2023-07-03,Tablet,Peripherals,North,3,284.05,852.1500000000001,130.41789709013085,0.0,Bank Transfer,55,M,Chicago,CA,9,No,Yes,Premium
+1418,615,2023-11-26,Tablet,Accessories,East,2,971.82,1943.64,461.0668420901438,0.0,Cash,36,M,Chicago,IL,1,No,Yes,Regular
+1419,646,2023-09-30,Phone,Accessories,East,2,338.03,676.06,195.8938607739196,0.1,PayPal,53,F,Houston,CA,8,No,No,Premium
+1420,291,2023-12-06,Mouse,Accessories,West,1,487.22,487.22,74.84159012692399,0.0,Credit Card,30,M,Houston,IL,8,Yes,No,New
+1421,148,2023-03-10,Laptop,Accessories,East,4,204.14,816.56,214.17812545473942,0.1,Cash,63,F,Houston,AZ,6,No,Yes,New
+1422,611,2023-02-03,Phone,Peripherals,West,4,614.67,2458.68,273.09041494202575,0.0,Credit Card,20,F,LA,TX,4,No,Yes,Regular
+1423,116,2023-09-19,Headphones,Peripherals,East,3,287.88,863.64,179.3125658221568,0.0,Credit Card,27,F,Phoenix,NY,3,No,No,New
+1424,271,2023-02-22,Headphones,Peripherals,South,4,214.92,859.68,98.09809575402443,0.05,Cash,55,F,Chicago,TX,3,No,No,Premium
+1425,319,2023-07-24,Tablet,Electronics,North,2,521.41,1042.82,299.08765676217064,0.1,Bank Transfer,18,M,Phoenix,IL,6,No,No,Premium
+1426,257,2023-05-06,Tablet,Accessories,South,2,15.45,30.9,7.8260509138446706,0.0,Credit Card,44,M,Phoenix,IL,8,No,No,Regular
+1427,576,2023-08-23,Headphones,Accessories,North,1,17.59,17.59,4.073667787617755,0.1,Credit Card,63,F,Houston,TX,7,No,No,Premium
+1428,145,2023-02-12,Tablet,Peripherals,North,1,226.88,226.88,60.07312221260076,0.1,PayPal,25,M,LA,IL,1,No,Yes,Premium
+1429,472,2023-08-28,Laptop,Accessories,North,4,46.35,185.4,42.55003401974165,0.15,Bank Transfer,68,F,NYC,CA,6,No,Yes,Premium
+1430,617,2023-04-21,Tablet,Accessories,South,3,116.95,350.85,103.07582834972001,0.05,Credit Card,63,F,LA,CA,7,No,No,Premium
+1431,198,2023-09-06,Mouse,Peripherals,North,4,345.47,1381.88,335.5088417990741,0.05,PayPal,59,F,Phoenix,IL,7,No,No,New
+1432,991,2023-05-31,Tablet,Electronics,South,4,804.56,3218.24,916.9786647403938,0.05,Bank Transfer,34,M,LA,IL,9,No,No,Premium
+1433,844,2023-07-02,Phone,Electronics,West,4,576.33,2305.32,468.9628986579928,0.15,Cash,26,F,Houston,CA,5,No,No,Regular
+1434,136,2023-12-02,Laptop,Electronics,East,4,517.54,2070.16,255.48441303570655,0.15,Cash,23,F,NYC,IL,1,No,No,Regular
+1435,379,2023-04-05,Phone,Peripherals,East,2,300.55,601.1,123.60752566947511,0.05,PayPal,60,M,Houston,IL,2,No,Yes,Premium
+1436,448,2023-01-08,Phone,Accessories,North,3,932.44,2797.32,350.7127798794905,0.15,Cash,42,M,NYC,TX,4,No,No,Regular
+1437,596,2023-12-26,Mouse,Peripherals,South,2,403.04,806.08,176.12742873890332,0.15,Credit Card,56,M,Phoenix,NY,5,No,Yes,Premium
+1438,401,2023-07-03,Laptop,Peripherals,East,3,96.22,288.65999999999997,56.72128937038303,0.15,Bank Transfer,66,M,NYC,CA,9,No,Yes,Regular
+1439,280,2023-10-08,Laptop,Accessories,South,1,620.9,620.9,139.40141290287482,0.05,Credit Card,45,F,NYC,TX,1,No,No,Regular
+1440,706,2023-07-14,Laptop,Electronics,South,4,122.7,490.8,50.066211660342276,0.05,Credit Card,50,M,NYC,NY,3,No,No,Premium
+1441,198,2023-12-18,Laptop,Electronics,North,2,351.77,703.54,97.76961589984296,0.05,Cash,54,F,LA,IL,5,No,No,Premium
+1442,799,2023-07-14,Laptop,Peripherals,East,3,512.34,1537.02,304.73894009151667,0.15,Credit Card,26,M,LA,IL,3,No,No,New
+1443,215,2023-06-04,Mouse,Electronics,North,1,875.48,875.48,253.97737162001116,0.05,Cash,35,M,Phoenix,TX,4,No,Yes,Premium
+1444,290,2023-04-03,Tablet,Peripherals,North,1,498.61,498.61,88.11526072229711,0.15,Bank Transfer,38,M,NYC,IL,3,Yes,Yes,Premium
+1445,352,2023-06-09,Phone,Peripherals,East,4,705.24,2820.96,521.5233021232523,0.0,Bank Transfer,19,M,Chicago,AZ,4,No,No,New
+1446,260,2023-03-02,Laptop,Accessories,East,3,992.89,2978.67,723.6357598882711,0.15,Credit Card,60,M,Phoenix,TX,1,No,No,Premium
+1447,355,2023-05-02,Tablet,Accessories,West,2,140.17,280.34,61.88745231551806,0.1,PayPal,55,M,NYC,NY,8,No,No,Premium
+1448,422,2023-02-20,Tablet,Accessories,West,4,281.98,1127.92,180.22495664378243,0.05,Cash,57,F,NYC,TX,4,No,No,New
+1449,227,2023-10-04,Phone,Peripherals,South,2,400.63,801.26,145.96014902247146,0.05,Cash,53,M,LA,CA,7,No,No,Premium
+1450,117,2023-01-05,Mouse,Accessories,East,1,427.61,427.61,61.379122197868234,0.1,Credit Card,67,M,Phoenix,TX,2,No,No,Premium
+1451,892,2023-04-02,Headphones,Electronics,West,2,416.91,833.82,244.4796026103901,0.15,Cash,60,M,NYC,IL,2,No,Yes,New
+1452,834,2023-06-19,Headphones,Electronics,South,2,908.53,1817.06,229.18010187052323,0.0,Cash,54,M,NYC,IL,6,No,No,New
+1453,665,2023-11-13,Tablet,Peripherals,South,4,716.89,2867.56,500.00885799025633,0.1,PayPal,32,F,Phoenix,AZ,2,No,No,Regular
+1454,669,2023-01-22,Phone,Peripherals,South,2,611.83,1223.66,128.68962334934778,0.1,PayPal,45,M,Chicago,AZ,6,No,Yes,Premium
+1455,422,2023-11-22,Headphones,Accessories,West,4,316.28,1265.12,182.62753416699363,0.15,Credit Card,35,M,Phoenix,AZ,2,Yes,No,Regular
+1456,971,2023-01-01,Tablet,Peripherals,East,1,825.55,825.55,211.41858965794734,0.05,PayPal,51,M,Phoenix,NY,4,Yes,No,Regular
+1457,785,2023-05-13,Mouse,Peripherals,North,4,955.51,3822.04,535.9839569634778,0.15,Credit Card,39,M,Chicago,AZ,7,No,No,New
+1458,891,2023-08-21,Headphones,Electronics,South,4,822.99,3291.96,381.9091037178507,0.1,Bank Transfer,28,F,Phoenix,NY,8,No,Yes,Premium
+1459,725,2023-01-12,Tablet,Electronics,West,3,11.55,34.650000000000006,6.752960536322547,0.1,Credit Card,30,M,NYC,AZ,3,No,No,Premium
+1460,387,2023-12-12,Tablet,Accessories,West,2,640.04,1280.08,130.56028359979248,0.05,Bank Transfer,21,F,Phoenix,NY,9,Yes,Yes,New
+1461,953,2023-02-15,Laptop,Peripherals,North,1,60.62,60.62,7.089704856264864,0.05,Credit Card,39,M,Chicago,TX,2,No,No,Regular
+1462,762,2023-02-03,Mouse,Peripherals,North,4,265.03,1060.12,277.2480673682202,0.05,Cash,24,F,Houston,TX,8,No,Yes,New
+1463,738,2023-03-19,Laptop,Electronics,West,1,68.93,68.93,17.528531532234535,0.15,PayPal,60,F,Phoenix,IL,8,No,Yes,Premium
+1464,254,2023-08-06,Phone,Peripherals,East,3,607.76,1823.28,516.0388616935677,0.05,Bank Transfer,41,M,LA,NY,4,No,No,New
+1465,589,2023-10-28,Laptop,Electronics,North,2,689.72,1379.44,373.69455458254487,0.1,Credit Card,21,M,NYC,CA,1,No,No,Premium
+1466,485,2023-03-14,Laptop,Accessories,West,4,123.34,493.36,116.74629917599933,0.1,PayPal,45,F,NYC,IL,1,No,Yes,Regular
+1467,884,2023-10-09,Headphones,Electronics,North,2,390.0,780.0,86.1639257389034,0.0,Credit Card,32,F,LA,TX,2,No,Yes,Premium
+1468,203,2023-09-06,Tablet,Peripherals,East,3,461.67,1385.01,355.3516328795401,0.15,PayPal,18,M,LA,NY,9,No,No,Regular
+1469,492,2023-02-16,Mouse,Accessories,South,3,375.36,1126.08,303.03056277426765,0.0,PayPal,20,F,Phoenix,AZ,2,No,No,Regular
+1470,910,2023-05-01,Laptop,Electronics,North,1,129.81,129.81,33.72677066853148,0.1,Credit Card,31,F,LA,CA,2,No,No,Premium
+1471,345,2023-08-02,Mouse,Electronics,East,4,424.76,1699.04,342.68924402994975,0.0,Bank Transfer,55,F,Houston,TX,6,No,Yes,Premium
+1472,275,2023-08-27,Laptop,Accessories,West,1,753.67,753.67,110.47322574699096,0.1,Bank Transfer,67,M,Chicago,IL,7,No,No,Regular
+1473,138,2023-02-25,Phone,Accessories,North,3,80.3,240.89999999999998,64.81799822868284,0.0,Cash,18,F,LA,NY,7,No,Yes,New
+1474,576,2023-12-16,Laptop,Electronics,North,2,89.38,178.76,43.87352477382942,0.05,PayPal,55,F,LA,CA,9,No,Yes,Premium
+1475,781,2023-04-17,Headphones,Peripherals,West,1,361.22,361.22,106.9761102825482,0.0,Cash,55,F,Houston,NY,6,No,No,Regular
+1476,858,2023-11-15,Tablet,Electronics,South,1,942.31,942.31,123.57313835827861,0.05,Cash,38,M,NYC,AZ,8,No,No,Regular
+1477,637,2023-02-17,Phone,Accessories,West,2,671.89,1343.78,195.0267106827381,0.05,Credit Card,65,M,NYC,IL,6,No,No,New
+1478,966,2023-03-02,Laptop,Electronics,North,1,681.88,681.88,97.0721844882398,0.15,Credit Card,46,F,Phoenix,NY,2,No,No,Premium
+1479,917,2023-12-03,Mouse,Accessories,West,2,368.3,736.6,190.41695856597534,0.05,Credit Card,22,M,Houston,TX,1,No,No,Regular
+1480,507,2023-01-26,Phone,Accessories,East,4,597.72,2390.88,328.46258338733173,0.05,PayPal,66,F,Chicago,IL,5,Yes,No,New
+1481,624,2023-10-19,Phone,Peripherals,West,2,20.03,40.06,4.540078556544329,0.0,Credit Card,27,M,Chicago,TX,9,No,No,Regular
+1482,927,2023-09-14,Laptop,Accessories,North,4,639.74,2558.96,766.9514323240721,0.1,Credit Card,45,M,Houston,NY,8,No,Yes,Premium
+1483,605,2023-01-08,Phone,Accessories,West,2,914.15,1828.3,191.90466153703323,0.15,PayPal,38,F,Chicago,IL,4,No,Yes,New
+1484,924,2023-04-23,Mouse,Peripherals,South,3,616.45,1849.3500000000001,493.86672053095964,0.05,PayPal,67,M,NYC,TX,5,No,No,Regular
+1485,135,2023-12-21,Phone,Accessories,West,3,874.96,2624.88,454.29682300989555,0.15,Bank Transfer,24,M,Chicago,AZ,5,No,No,New
+1486,784,2023-09-10,Mouse,Peripherals,South,4,726.73,2906.92,779.9937624558376,0.0,Credit Card,20,M,Chicago,AZ,6,No,Yes,Premium
+1487,119,2023-06-29,Laptop,Peripherals,East,4,129.35,517.4,109.13212843052928,0.05,Credit Card,62,F,Houston,NY,3,No,No,New
+1488,420,2023-07-26,Tablet,Accessories,South,3,903.43,2710.29,759.7654209929174,0.0,Credit Card,64,M,Houston,IL,5,No,Yes,Premium
+1489,875,2023-10-30,Phone,Accessories,West,4,75.78,303.12,86.46152360840033,0.15,Bank Transfer,37,M,Chicago,CA,2,No,No,Regular
+1490,611,2023-05-07,Tablet,Electronics,North,2,538.63,1077.26,109.68622135330575,0.0,Credit Card,36,F,LA,IL,1,No,Yes,Premium
+1491,499,2023-02-25,Mouse,Peripherals,South,2,150.72,301.44,34.69044926625322,0.15,Bank Transfer,52,M,Houston,AZ,1,No,No,Regular
+1492,753,2023-08-02,Phone,Electronics,East,3,21.59,64.77,9.720146982860863,0.0,Cash,21,M,Phoenix,TX,7,No,No,Regular
+1493,982,2023-01-14,Headphones,Accessories,South,1,427.81,427.81,100.04896565489393,0.15,Bank Transfer,22,M,Phoenix,CA,2,No,Yes,Premium
+1494,570,2023-01-28,Tablet,Electronics,South,2,302.09,604.18,167.7532591376643,0.1,Cash,18,M,NYC,NY,4,No,No,Regular
+1495,242,2023-03-19,Phone,Peripherals,South,4,491.14,1964.56,377.1727119668135,0.0,Credit Card,21,M,Chicago,CA,5,No,No,New
+1496,191,2023-08-04,Tablet,Electronics,East,1,581.43,581.43,128.72547579906922,0.0,Cash,29,F,LA,NY,7,No,No,Regular
+1497,453,2023-12-31,Phone,Peripherals,West,1,53.3,53.3,7.339408430800682,0.1,Bank Transfer,44,F,NYC,CA,2,No,No,Premium
+1498,933,2023-06-03,Laptop,Accessories,South,2,131.77,263.54,68.78219188023587,0.1,PayPal,59,M,Chicago,NY,6,No,No,New
+1499,899,2023-01-14,Tablet,Accessories,South,2,563.06,1126.12,330.4775065514738,0.0,Cash,40,M,Houston,NY,1,No,Yes,New
